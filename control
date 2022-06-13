@@ -1,0 +1,9 @@
+Package: com.bandarhl.fixtwitterkeychain
+Name: TwitterLoginFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix Twitter's keychain (jailed tweak)
+Maintainer: Superuser1958
+Author: Superuser1958
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
